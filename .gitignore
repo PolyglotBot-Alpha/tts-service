@@ -1,0 +1,88 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Flask specific
+instance/
+
+# IDE specific
+.idea/
+.vscode/
+
+# Compiled source
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Dependency directories
+.bazel/
+.buckbuild/
+.cargo/
+.node_modules/
+.npm/
+.pnpm/
+.yarn/
+bower_components/
+cargo-home/
+jspm_packages/
+node_modules/
+venv/
+env/
+
+# Docker
+.dockerignore
+.docker/
+
+# Python virtual environments
+.pyenv/
+.venv/
+pip-selfcheck.json
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IPython
+profile_default/
+ipython_config.py
+
+# pyenv
+.python-version
+
+# celery beat schedule file
+celerybeat-schedule
+
+# SageMath parsed files
+*.sage.py
+
+# Environments
+.env
+.ENV
