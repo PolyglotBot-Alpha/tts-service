@@ -3,3 +3,4 @@ py_eureka_client
 python-dotenv
 supabase
 requests
+gunicorn
